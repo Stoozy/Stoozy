@@ -1,7 +1,7 @@
 ### Hi there, I'm stoozy 👋
 
 - 🔭 Working on an interpreter for a custom programming language vari
-- 🌱 Currently learning rust and interpreter development
+- 🌱 Currently learning about operating systems
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Stoozy&theme=gruvbox" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stoozy" />

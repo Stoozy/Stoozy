@@ -3,7 +3,7 @@
 - 🔭 Working on an operating system for fun
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Stoozy&theme=gruvbox" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stoozy" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stoozy&theme=gruvbox" />
 
 
 <!--

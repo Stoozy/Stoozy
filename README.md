@@ -1,6 +1,5 @@
 ### Hi there, I'm stoozy 👋
 
-- 🔭 Working on an operating system for fun
 
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Stoozy&theme=gruvbox" />
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stoozy&theme=gruvbox" />

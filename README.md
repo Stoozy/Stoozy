@@ -1,4 +1,6 @@
 
+
+<!--
 ### Hello there 👋
 
 
@@ -6,7 +8,6 @@
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stoozy&theme=gruvbox" />
 
 
-<!--
 **Stoozy/Stoozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
